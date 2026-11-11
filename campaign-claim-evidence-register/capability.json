@@ -1,0 +1,47 @@
+{
+  "id": "campaign-claim-evidence-register",
+  "name": "Campaign claim evidence register",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "An account lead gets a register that pairs each draft campaign claim with the evidence the client supplied, its source date, proposed qualified wording and the approvals still missing. Unsupported or stale claims are blocked; only approved wording is released.",
+  "directory": "https://fullypowered.ai/capabilities/campaign-claim-evidence-register/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/compliance-risk-and-privacy"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "comparison-claim-check",
+    "creator-content-approval",
+    "copy-edit-with-a-change-list"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own published map of the work of pairing a campaign's draft claims with the client's supplied evidence, and its own method for dating, scoping, qualifying and approving each claim."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "creative-test-evidence-review",
+  "name": "Creative test evidence review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a batch of ad creative is ready for review, the creative strategist and media lead get an evidence table by creative, angle, format and hook, with tentative learning and next-test options. No winner or loser is named, and thin evidence is held back.",
+  "directory": "https://fullypowered.ai/capabilities/creative-test-evidence-review/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation",
+    "functions/marketing-and-content",
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/ecommerce-and-retail",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "comparison-claim-check",
+    "creator-campaign-performance-report"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for reviewing a batch of ad creative: the fixed inputs, the rules that hold a creative back from comparison, the roll-ups by angle, format and hook, the test for a clean pair, and the wording that stays tentative."
+    }
+  ]
+}

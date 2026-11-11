@@ -1,0 +1,46 @@
+{
+  "id": "missed-milestone-client-reply",
+  "name": "Missed milestone client reply",
+  "kind": "capability-template",
+  "version": "0.1.3",
+  "summary": "When a client challenges a delay, a deliverable or an earlier commitment, the account director gets a draft reply and an internal action note that keep confirmed facts apart from proposed recovery steps and the decisions still needed. Nothing is sent.",
+  "directory": "https://fullypowered.ai/capabilities/missed-milestone-client-reply/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/professional-services",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "customer-reply-drafting",
+    "support-escalation-brief",
+    "client-status-update-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of agency work for marketing and advertising, an illustrative example of work: preparing a response to a missed milestone, written up here as a self-contained capability template."
+    }
+  ]
+}

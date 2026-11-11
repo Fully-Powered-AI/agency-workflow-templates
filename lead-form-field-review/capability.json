@@ -1,0 +1,47 @@
+{
+  "id": "lead-form-field-review",
+  "name": "Lead form field review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a client questions a long inquiry form or abandoned submissions, the conversion lead gets a field-by-field review: what each field is used for downstream, where people leave, and proposed labels, error messages and test questions. The lead and the client's data owner decide every change.",
+  "directory": "https://fullypowered.ai/capabilities/lead-form-field-review/",
+  "primary_function": "functions/design-and-user-experience",
+  "functions": [
+    "functions/design-and-user-experience",
+    "functions/advertising-and-lead-generation",
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/professional-services",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "tracking-event-plan",
+    "website-findability-audit",
+    "usability-test-session-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of agency work, and its own method for tying each field on an inquiry form to the use made of it after submission."
+    }
+  ]
+}

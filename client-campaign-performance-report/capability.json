@@ -1,0 +1,46 @@
+{
+  "id": "client-campaign-performance-report",
+  "name": "Client campaign performance report",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "At the weekly or monthly reporting cutoff, the analyst gets a client report in the agency's format from the exports supplied: source figures, a drafted narrative, anomalies and discussion points. Gaps stay gaps, and every explanation is labelled a hypothesis.",
+  "directory": "https://fullypowered.ai/capabilities/client-campaign-performance-report/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/professional-services",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "creator-campaign-performance-report",
+    "weekly-owner-business-brief",
+    "quarterly-business-review-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of agency work for marketing and advertising, the illustrative piece of work of assembling the client performance report, written up here as a self-contained capability template."
+    }
+  ]
+}
