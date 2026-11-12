@@ -1,10 +1,10 @@
-# Fully Powered Capability Templates: Marketing and Advertising Agencies
+# Fully Powered Workflow Templates: Marketing and Advertising Agencies
 
-Every client sure of what was done and what it did. These capability templates are written for agencies. They prepare the evidence, audits, reports and replies around a campaign from the account's own records, with every claim traced to a source and a person approving what the client sees.
+Every client sure of what was done and what it did. These workflow templates are written for agencies. They prepare the evidence, audits, reports and replies around a campaign from the account's own records, with every claim traced to a source and a person approving what the client sees.
 
-This repository holds 6 capability templates for account, strategy and delivery leads at an agency. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 6 workflow templates for account, strategy and delivery leads at an agency. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
-## The capabilities
+## The workflow templates
 
 - **[Campaign claim evidence register](campaign-claim-evidence-register/)**: An account lead gets a register that pairs each draft campaign claim with the evidence the client supplied, its source date, proposed qualified wording and the approvals still missing. Unsupported or stale claims are blocked; only approved wording is released.
 - **[Client campaign performance report](client-campaign-performance-report/)**: At the weekly or monthly reporting cutoff, the analyst gets a client report in the agency's format from the exports supplied: source figures, a drafted narrative, anomalies and discussion points. Gaps stay gaps, and every explanation is labelled a hypothesis.
@@ -17,20 +17,22 @@ This repository holds 6 capability templates for account, strategy and delivery 
 
 Open a folder and start with its README. Every folder stands alone, so copy the one you want and leave the rest. The templates are written for ChatGPT, Claude, Copilot and Gemini: paste the instruction block and the output format in as custom instructions, or load the folder in a product that reads `SKILL.md` packages.
 
+To take the whole collection, press **Use this template** at the top of this page: it copies every folder into a repository in your own account, yours to change.
+
 In every template a person starts the work, supplies the inputs and decides. The template prepares and checks. Anything that sends, posts, pays or changes a record waits for a person to approve it.
 
 ## What SKILL.md is
 
-Each folder holds a file named `SKILL.md`. It is the technical file: the same instructions and output format as the template, in the packaged form that AI products which load instructions from a folder read. It is generated from `TEMPLATE.md`, so the two always agree. The capability template is the whole folder; `SKILL.md` is one way of loading it. If your AI product does not read that format, use `TEMPLATE.md`.
+Each folder holds a file named `SKILL.md`. It is the technical file: the same instructions and output format as the template, in the packaged form that AI products which load instructions from a folder read. It is generated from `TEMPLATE.md`, so the two always agree. The workflow template is the whole folder; `SKILL.md` is one way of loading it. If your AI product does not read that format, use `TEMPLATE.md`.
 
 ## What "checked" means here
 
 Each folder says exactly what was checked and when: who wrote it, that its sources and rights were reviewed, the date of its editorial review, and whether it has been tried on its invented example in a named AI product. Nothing is described as tested for a client unless it was. Test a template on your own past work before your team relies on it; each one comes with acceptance tests for that.
 
-## More capabilities
+## More workflow templates
 
-The [Fully Powered Capabilities Directory](https://fullypowered.ai/capabilities/) lists every capability across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [Fully Powered Workflows Directory](https://fullypowered.ai/workflow templates/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the capability drew on. Published by [Fully Powered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [Fully Powered AI](https://fullypowered.ai/).

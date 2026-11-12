@@ -5,7 +5,7 @@
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the capability template on its own invented example. Client A, the platforms and every figure are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own invented example. Client A, the platforms and every figure are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run the same day followed the template as first written and showed where it left room to guess: goal statuses, blank cells, spend added across platforms, the days used for clicks against sessions, whether a general note covers a flag, hypotheses about source differences, the placeholders, the prepared date and the currency symbol. The instruction block, the output format and the example were revised, and the run recorded here was made on the revised instructions with the revised example. The earlier run's record was replaced by this one. What the earlier run found, and what was changed, is at the end.
 

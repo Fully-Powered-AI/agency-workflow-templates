@@ -2,7 +2,7 @@
 
 At the weekly or monthly reporting cutoff, the analyst gets a client report in the agency's format from the exports supplied: source figures, a drafted narrative, anomalies and discussion points. Gaps stay gaps, and every explanation is labelled a hypothesis.
 
-*Capability template · Marketing and advertising · Analytics and reporting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/client-campaign-performance-report/)*
+*Workflow template · Marketing and advertising · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-campaign-performance-report/)*
 
 ## The outcome
 
@@ -23,7 +23,7 @@ The analyst starts it at the weekly or monthly client-reporting cutoff, once the
 - The previous report, or the previous period's figures, for the comparison.
 - The client's goals and budget, and the agency's reporting definitions: which conversions count, the attribution window each source uses, the currency.
 - Notes on anything that changed in the period: budget moves, launches, pauses, tracking problems.
-- The agency's report format. If none is supplied, the capability uses the one in its template.
+- The agency's report format. If none is supplied, the workflow template uses its own built-in format.
 
 ## What comes out
 
@@ -40,7 +40,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), whose campaigns the report describes.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of client accounts has outgrown the hours the analyst has each cutoff.
 
-It is a different piece of work from the [creator campaign performance report](https://fullypowered.ai/capabilities/creator-campaign-performance-report/), which ranks influencer partners from a store's own orders. It is not the [weekly owner business brief](https://fullypowered.ai/capabilities/weekly-owner-business-brief/), which covers a whole business, and not [quarterly business review preparation](https://fullypowered.ai/capabilities/quarterly-business-review-preparation/), which looks across a quarter and a relationship.
+It is a different piece of work from the [creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/), which ranks influencer partners from a store's own orders. It is not the [weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/), which covers a whole business, and not [quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/), which looks across a quarter and a relationship.
 
 ## What has to change for your company
 
@@ -48,7 +48,7 @@ Put your own report format in place of the default order of sections. Set the at
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was run twice on its invented example in Claude on 10 November 2026. The instructions, the output format and the example were revised after the first run, and the second run is the one recorded and published with it. After that run, small wording edits were made following a review, without a new run. It has not yet been tested in a client environment.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run twice on its invented example in Claude on 10 November 2026. The instructions, the output format and the example were revised after the first run, and the second run is the one recorded and published with it. After that run, small wording edits were made following a review, without a new run. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past reporting period whose figures your analyst already knows, including a week with a missing day, a week with a tracking outage and a week where the platform and analytics disagree. The analyst recomputes every figure before any report goes further.
 
@@ -61,11 +61,11 @@ Testing in your environment means running it on a past reporting period whose fi
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -75,12 +75,12 @@ Testing in your environment means running it on a past reporting period whose fi
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Creator campaign performance report](https://fullypowered.ai/capabilities/creator-campaign-performance-report/)
-- [Weekly owner business brief](https://fullypowered.ai/capabilities/weekly-owner-business-brief/)
-- [Quarterly business review preparation](https://fullypowered.ai/capabilities/quarterly-business-review-preparation/)
+- [Creator campaign performance report](https://fullypowered.ai/workflow templates/creator-campaign-performance-report/)
+- [Weekly owner business brief](https://fullypowered.ai/workflow templates/weekly-owner-business-brief/)
+- [Quarterly business review preparation](https://fullypowered.ai/workflow templates/quarterly-business-review-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

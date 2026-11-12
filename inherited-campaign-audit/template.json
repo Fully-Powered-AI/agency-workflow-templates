@@ -1,10 +1,10 @@
 {
   "id": "inherited-campaign-audit",
   "name": "Inherited campaign audit",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When an agency takes over an account or prepares a campaign health review, the media or analytics lead gets an inventory of what is running against the client's plan: mismatched offers, disagreeing destination pages, missing measurement evidence, and an owner for each follow-up.",
-  "directory": "https://fullypowered.ai/capabilities/inherited-campaign-audit/",
+  "directory": "https://fullypowered.ai/workflow templates/inherited-campaign-audit/",
   "primary_function": "functions/advertising-and-lead-generation",
   "functions": [
     "functions/advertising-and-lead-generation",

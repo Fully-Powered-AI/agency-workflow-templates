@@ -1,10 +1,10 @@
 {
   "id": "campaign-claim-evidence-register",
   "name": "Campaign claim evidence register",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "An account lead gets a register that pairs each draft campaign claim with the evidence the client supplied, its source date, proposed qualified wording and the approvals still missing. Unsupported or stale claims are blocked; only approved wording is released.",
-  "directory": "https://fullypowered.ai/capabilities/campaign-claim-evidence-register/",
+  "directory": "https://fullypowered.ai/workflow templates/campaign-claim-evidence-register/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

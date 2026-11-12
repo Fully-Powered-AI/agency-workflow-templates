@@ -1,6 +1,6 @@
 # Missed milestone client reply: an invented example
 
-*Illustrative example with invented data.* The agency, the client, the project, the dates, the quotations and the roles below are all invented. The agency is an invented 28-person marketing agency building a landing page for a client called Client K. First come the inputs the account director supplied, in full, then the draft reply and internal action note the capability returned. The last input is today's date.
+*Illustrative example with invented data.* The agency, the client, the project, the dates, the quotations and the roles below are all invented. The agency is an invented 28-person marketing agency building a landing page for a client called Client K. First come the inputs the account director supplied, in full, then the draft reply and internal action note the workflow template returned. The last input is today's date.
 
 ## The inputs
 

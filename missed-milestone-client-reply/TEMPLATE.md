@@ -1,6 +1,6 @@
 # Missed milestone client reply
 
-Capability template, version 0.1.3.
+Workflow template, version 0.1.3.
 
 ## Purpose
 
@@ -17,7 +17,7 @@ Do not use it for an ordinary message that needs an answer (use customer reply d
 - **Starts it and supplies the inputs:** the account director, or the account manager for the director.
 - **Confirms delivery facts and dates:** the delivery lead named on each milestone.
 - **Approves the reply, any concession and any revised commitment, and sends:** the account director.
-- **Authorises credits and fee changes:** whoever your agency has named; the capability never does.
+- **Authorises credits and fee changes:** whoever your agency has named; the workflow template never does.
 
 ## Inputs
 

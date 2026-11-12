@@ -1,6 +1,6 @@
 # Lead form field review: an invented example
 
-*Illustrative example with invented data.* The client, its form, the web address (on the reserved example domain), the roles, the counts and the notes below are all invented. Client R is an invented commercial cleaning company whose quote request form the client's operations director has begun to question. The conversion lead at the agency ran the review, with the field-use notes written by the client's data owner. First come the inputs the conversion lead supplied, in full, then the review the capability returned.
+*Illustrative example with invented data.* The client, its form, the web address (on the reserved example domain), the roles, the counts and the notes below are all invented. Client R is an invented commercial cleaning company whose quote request form the client's operations director has begun to question. The conversion lead at the agency ran the review, with the field-use notes written by the client's data owner. First come the inputs the conversion lead supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 

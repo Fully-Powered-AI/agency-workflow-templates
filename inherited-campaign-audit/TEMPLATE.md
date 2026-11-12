@@ -1,6 +1,6 @@
 # Inherited campaign audit
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Use it when the agency inherits an account, or on a set rhythm ahead of a campai
 Do not use it:
 
 - to review how findable a website is. That is website findability audit;
-- to decide what a site or app should track. That is tracking event plan; this capability only reads whether evidence exists that a planned conversion was recorded;
+- to decide what a site or app should track. That is tracking event plan; this workflow template only reads whether evidence exists that a planned conversion was recorded;
 - to report performance, explain why totals differ, or judge creative, bids, budgets or audience settings, none of which this version covers;
 - to conclude that a mismatch wasted money, or to recommend pausing, changing or re-launching anything;
 - when there is no approved plan. Without one there is nothing to inventory against.
@@ -25,7 +25,7 @@ Do not use it:
 - **Investigates offer and destination findings:** the owner named in the settings, by default the media lead.
 - **Investigates plan findings:** the owner named in the settings, by default the account lead.
 - **Investigates measurement findings:** the analytics lead.
-- **Makes every change in an ad account:** the media lead, after the client agrees. Never this capability.
+- **Makes every change in an ad account:** the media lead, after the client agrees. Never this workflow template.
 
 ## Inputs
 

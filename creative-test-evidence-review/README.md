@@ -2,7 +2,7 @@
 
 When a batch of ad creative is ready for review, the creative strategist and media lead get an evidence table by creative, angle, format and hook, with tentative learning and next-test options. No winner or loser is named, and thin evidence is held back.
 
-*Capability template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/creative-test-evidence-review/)*
+*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creative-test-evidence-review/)*
 
 ## The outcome
 
@@ -38,7 +38,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when many creatives are launched quickly and each batch needs an honest reading.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), when an in-house team inherits a long history of creative with no shared way to review it.
 
-It does not test whether one result beats another by more than chance (see [comparison claim check](https://fullypowered.ai/capabilities/comparison-claim-check/)), and it does not report on creators ([creator campaign performance report](https://fullypowered.ai/capabilities/creator-campaign-performance-report/)).
+It does not test whether one result beats another by more than chance (see [comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/)), and it does not report on creators ([creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/)).
 
 ## What has to change for your company
 
@@ -46,7 +46,7 @@ Set your own minimum conversions and impressions before a creative can be read, 
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past batch whose story you already know: one with a thin creative, one that ran under a different offer, and one with conversions that were never confirmed. The media lead should recompute every figure in the table from the export before the page is relied on.
 
@@ -59,11 +59,11 @@ Testing in your environment means running it on a past batch whose story you alr
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,11 +73,11 @@ Testing in your environment means running it on a past batch whose story you alr
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Comparison claim check](https://fullypowered.ai/capabilities/comparison-claim-check/)
-- [Creator campaign performance report](https://fullypowered.ai/capabilities/creator-campaign-performance-report/)
+- [Comparison claim check](https://fullypowered.ai/workflow templates/comparison-claim-check/)
+- [Creator campaign performance report](https://fullypowered.ai/workflow templates/creator-campaign-performance-report/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

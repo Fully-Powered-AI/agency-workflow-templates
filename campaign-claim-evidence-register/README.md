@@ -2,7 +2,7 @@
 
 An account lead gets a register that pairs each draft campaign claim with the evidence the client supplied, its source date, proposed qualified wording and the approvals still missing. Unsupported or stale claims are blocked; only approved wording is released.
 
-*Capability template · Marketing and advertising · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/campaign-claim-evidence-register/)*
+*Workflow template · Marketing and advertising · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/campaign-claim-evidence-register/)*
 
 ## The outcome
 
@@ -10,7 +10,7 @@ A campaign is ready to brief and someone has written the lines everyone likes: a
 
 Every claim ends in one of three states. Ready for release means the evidence is current, permission is stated and the right people have approved the exact wording. Pending approval means the evidence holds but approvals are missing. Blocked means there is no evidence, no date, evidence that is too old, no stated permission, or nothing in the evidence that supports the line. Only wording on the release list goes out, and the account lead is the one who releases it.
 
-The capability treats everything the client hands over as an assertion the client has made. It does not confirm it, and it makes no legal or advertising-regulation judgment: that stays with the client's claims owner and the specialist who signs off the kind of claim.
+The workflow template treats everything the client hands over as an assertion the client has made. It does not confirm it, and it makes no legal or advertising-regulation judgment: that stays with the client's claims owner and the specialist who signs off the kind of claim.
 
 ## Who starts the work, and when
 
@@ -40,7 +40,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when campaigns multiply faster than anyone can keep track of what each line rests on.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), when old claims keep being reused after their evidence has aged.
 
-It is separate from [creator content approval](https://fullypowered.ai/capabilities/creator-content-approval/), which reviews a creator's finished post. It does not test whether a difference in numbers is real, which is [comparison claim check](https://fullypowered.ai/capabilities/comparison-claim-check/), and it does not edit copy, which is [copy edit with a change list](https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/).
+It is separate from [creator content approval](https://fullypowered.ai/workflows/creator-content-approval/), which reviews a creator's finished post. It does not test whether a difference in numbers is real, which is [comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/), and it does not edit copy, which is [copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/).
 
 ## What has to change for your company
 
@@ -48,7 +48,7 @@ Write down who approves each type of claim and keep that list with the client. S
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past campaign whose claims are already known: one with stale evidence, one with a missing date, one where the approver signed different wording than the one proposed. The account lead and the client's claims owner should recompute every date and age before the register is relied on.
 
@@ -61,11 +61,11 @@ Testing in your environment means running it on a past campaign whose claims are
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -75,12 +75,12 @@ Testing in your environment means running it on a past campaign whose claims are
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Comparison claim check](https://fullypowered.ai/capabilities/comparison-claim-check/)
-- [Creator content approval](https://fullypowered.ai/capabilities/creator-content-approval/)
-- [Copy edit with a change list](https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/)
+- [Comparison claim check](https://fullypowered.ai/workflow templates/comparison-claim-check/)
+- [Creator content approval](https://fullypowered.ai/workflow templates/creator-content-approval/)
+- [Copy edit with a change list](https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,10 +1,10 @@
 {
   "id": "client-campaign-performance-report",
   "name": "Client campaign performance report",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "At the weekly or monthly reporting cutoff, the analyst gets a client report in the agency's format from the exports supplied: source figures, a drafted narrative, anomalies and discussion points. Gaps stay gaps, and every explanation is labelled a hypothesis.",
-  "directory": "https://fullypowered.ai/capabilities/client-campaign-performance-report/",
+  "directory": "https://fullypowered.ai/workflow templates/client-campaign-performance-report/",
   "primary_function": "functions/analytics-and-reporting",
   "functions": [
     "functions/analytics-and-reporting",
@@ -40,7 +40,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of agency work for marketing and advertising, the illustrative piece of work of assembling the client performance report, written up here as a self-contained capability template."
+      "title": "Fully Powered AI's own published map of agency work for marketing and advertising, the illustrative piece of work of assembling the client performance report, written up here as a self-contained workflow template."
     }
   ]
 }
