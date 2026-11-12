@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a client questions a long inquiry form or abandoned submissions, the conversion lead gets a field-by-field review: what each field is used for downstream, where people leave, and proposed labels, error messages and test questions. The lead and the client's data owner decide every change.",
-  "directory": "https://fullypowered.ai/workflow templates/lead-form-field-review/",
+  "directory": "https://fullypowered.ai/workflows/lead-form-field-review/",
   "primary_function": "functions/design-and-user-experience",
   "functions": [
     "functions/design-and-user-experience",

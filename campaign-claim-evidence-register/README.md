@@ -2,7 +2,7 @@
 
 An account lead gets a register that pairs each draft campaign claim with the evidence the client supplied, its source date, proposed qualified wording and the approvals still missing. Unsupported or stale claims are blocked; only approved wording is released.
 
-*Workflow template · Marketing and advertising · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/campaign-claim-evidence-register/)*
+*Workflow template · Marketing and advertising · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on a past campaign whose claims are
 
 ## Related workflow templates
 
-- [Comparison claim check](https://fullypowered.ai/workflow templates/comparison-claim-check/)
-- [Creator content approval](https://fullypowered.ai/workflow templates/creator-content-approval/)
-- [Copy edit with a change list](https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/)
+- [Comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/)
+- [Creator content approval](https://fullypowered.ai/workflows/creator-content-approval/)
+- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)
 
 ## Make it yours
 

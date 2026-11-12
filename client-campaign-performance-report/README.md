@@ -2,7 +2,7 @@
 
 At the weekly or monthly reporting cutoff, the analyst gets a client report in the agency's format from the exports supplied: source figures, a drafted narrative, anomalies and discussion points. Gaps stay gaps, and every explanation is labelled a hypothesis.
 
-*Workflow template · Marketing and advertising · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-campaign-performance-report/)*
+*Workflow template · Marketing and advertising · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-campaign-performance-report/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on a past reporting period whose fi
 
 ## Related workflow templates
 
-- [Creator campaign performance report](https://fullypowered.ai/workflow templates/creator-campaign-performance-report/)
-- [Weekly owner business brief](https://fullypowered.ai/workflow templates/weekly-owner-business-brief/)
-- [Quarterly business review preparation](https://fullypowered.ai/workflow templates/quarterly-business-review-preparation/)
+- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/)
+- [Weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/)
+- [Quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/)
 
 ## Make it yours
 

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.3",
   "summary": "When a client challenges a delay, a deliverable or an earlier commitment, the account director gets a draft reply and an internal action note that keep confirmed facts apart from proposed recovery steps and the decisions still needed. Nothing is sent.",
-  "directory": "https://fullypowered.ai/workflow templates/missed-milestone-client-reply/",
+  "directory": "https://fullypowered.ai/workflows/missed-milestone-client-reply/",
   "primary_function": "functions/customer-success-and-account-management",
   "functions": [
     "functions/customer-success-and-account-management",

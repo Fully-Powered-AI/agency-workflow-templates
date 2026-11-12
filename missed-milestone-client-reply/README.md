@@ -2,7 +2,7 @@
 
 When a client challenges a delay, a deliverable or an earlier commitment, the account director gets a draft reply and an internal action note that keep confirmed facts apart from proposed recovery steps and the decisions still needed. Nothing is sent.
 
-*Workflow template · Marketing and advertising · Customer success and account management · version 0.1.3 · [Workflows Directory](https://fullypowered.ai/workflow templates/missed-milestone-client-reply/)*
+*Workflow template · Marketing and advertising · Customer success and account management · version 0.1.3 · [Workflows Directory](https://fullypowered.ai/workflows/missed-milestone-client-reply/)*
 
 ## The outcome
 
@@ -82,9 +82,9 @@ Testing in your environment means running it on past challenges your account dir
 
 ## Related workflow templates
 
-- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
-- [Support escalation brief](https://fullypowered.ai/workflow templates/support-escalation-brief/)
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
+- [Support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
 
 ## Make it yours
 

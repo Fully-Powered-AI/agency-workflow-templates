@@ -2,7 +2,7 @@
 
 When an agency takes over an account or prepares a campaign health review, the media or analytics lead gets an inventory of what is running against the client's plan: mismatched offers, disagreeing destination pages, missing measurement evidence, and an owner for each follow-up.
 
-*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/inherited-campaign-audit/)*
+*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inherited-campaign-audit/)*
 
 ## The outcome
 
@@ -87,8 +87,8 @@ Testing in your environment means running it on an account your leads already kn
 
 ## Related workflow templates
 
-- [Tracking event plan](https://fullypowered.ai/workflow templates/tracking-event-plan/)
-- [Website findability audit](https://fullypowered.ai/workflow templates/website-findability-audit/)
+- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
 - [Client campaign performance report](../client-campaign-performance-report/)
 
 ## Make it yours

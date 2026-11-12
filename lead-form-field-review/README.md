@@ -2,7 +2,7 @@
 
 When a client questions a long inquiry form or abandoned submissions, the conversion lead gets a field-by-field review: what each field is used for downstream, where people leave, and proposed labels, error messages and test questions. The lead and the client's data owner decide every change.
 
-*Workflow template · Marketing and advertising · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/lead-form-field-review/)*
+*Workflow template · Marketing and advertising · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-form-field-review/)*
 
 ## The outcome
 
@@ -88,9 +88,9 @@ Testing in your environment means running it on a form your team already knows w
 
 ## Related workflow templates
 
-- [Tracking event plan](https://fullypowered.ai/workflow templates/tracking-event-plan/)
-- [Website findability audit](https://fullypowered.ai/workflow templates/website-findability-audit/)
-- [Usability test session plan](https://fullypowered.ai/workflow templates/usability-test-session-plan/)
+- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
+- [Usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/)
 
 ## Make it yours
 

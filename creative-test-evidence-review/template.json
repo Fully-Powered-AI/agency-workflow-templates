@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a batch of ad creative is ready for review, the creative strategist and media lead get an evidence table by creative, angle, format and hook, with tentative learning and next-test options. No winner or loser is named, and thin evidence is held back.",
-  "directory": "https://fullypowered.ai/workflow templates/creative-test-evidence-review/",
+  "directory": "https://fullypowered.ai/workflows/creative-test-evidence-review/",
   "primary_function": "functions/advertising-and-lead-generation",
   "functions": [
     "functions/advertising-and-lead-generation",

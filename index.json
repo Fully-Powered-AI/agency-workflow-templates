@@ -9,7 +9,7 @@
       "version": "0.1.0",
       "summary": "An account lead gets a register that pairs each draft campaign claim with the evidence the client supplied, its source date, proposed qualified wording and the approvals still missing. Unsupported or stale claims are blocked; only approved wording is released.",
       "path": "campaign-claim-evidence-register/",
-      "directory": "https://fullypowered.ai/workflow templates/campaign-claim-evidence-register/"
+      "directory": "https://fullypowered.ai/workflows/campaign-claim-evidence-register/"
     },
     {
       "id": "client-campaign-performance-report",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "At the weekly or monthly reporting cutoff, the analyst gets a client report in the agency's format from the exports supplied: source figures, a drafted narrative, anomalies and discussion points. Gaps stay gaps, and every explanation is labelled a hypothesis.",
       "path": "client-campaign-performance-report/",
-      "directory": "https://fullypowered.ai/workflow templates/client-campaign-performance-report/"
+      "directory": "https://fullypowered.ai/workflows/client-campaign-performance-report/"
     },
     {
       "id": "creative-test-evidence-review",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "When a batch of ad creative is ready for review, the creative strategist and media lead get an evidence table by creative, angle, format and hook, with tentative learning and next-test options. No winner or loser is named, and thin evidence is held back.",
       "path": "creative-test-evidence-review/",
-      "directory": "https://fullypowered.ai/workflow templates/creative-test-evidence-review/"
+      "directory": "https://fullypowered.ai/workflows/creative-test-evidence-review/"
     },
     {
       "id": "inherited-campaign-audit",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "When an agency takes over an account or prepares a campaign health review, the media or analytics lead gets an inventory of what is running against the client's plan: mismatched offers, disagreeing destination pages, missing measurement evidence, and an owner for each follow-up.",
       "path": "inherited-campaign-audit/",
-      "directory": "https://fullypowered.ai/workflow templates/inherited-campaign-audit/"
+      "directory": "https://fullypowered.ai/workflows/inherited-campaign-audit/"
     },
     {
       "id": "lead-form-field-review",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "When a client questions a long inquiry form or abandoned submissions, the conversion lead gets a field-by-field review: what each field is used for downstream, where people leave, and proposed labels, error messages and test questions. The lead and the client's data owner decide every change.",
       "path": "lead-form-field-review/",
-      "directory": "https://fullypowered.ai/workflow templates/lead-form-field-review/"
+      "directory": "https://fullypowered.ai/workflows/lead-form-field-review/"
     },
     {
       "id": "missed-milestone-client-reply",
@@ -49,7 +49,7 @@
       "version": "0.1.3",
       "summary": "When a client challenges a delay, a deliverable or an earlier commitment, the account director gets a draft reply and an internal action note that keep confirmed facts apart from proposed recovery steps and the decisions still needed. Nothing is sent.",
       "path": "missed-milestone-client-reply/",
-      "directory": "https://fullypowered.ai/workflow templates/missed-milestone-client-reply/"
+      "directory": "https://fullypowered.ai/workflows/missed-milestone-client-reply/"
     }
   ]
 }

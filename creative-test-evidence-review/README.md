@@ -2,7 +2,7 @@
 
 When a batch of ad creative is ready for review, the creative strategist and media lead get an evidence table by creative, angle, format and hook, with tentative learning and next-test options. No winner or loser is named, and thin evidence is held back.
 
-*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creative-test-evidence-review/)*
+*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-test-evidence-review/)*
 
 ## The outcome
 
@@ -75,8 +75,8 @@ Testing in your environment means running it on a past batch whose story you alr
 
 ## Related workflow templates
 
-- [Comparison claim check](https://fullypowered.ai/workflow templates/comparison-claim-check/)
-- [Creator campaign performance report](https://fullypowered.ai/workflow templates/creator-campaign-performance-report/)
+- [Comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/)
+- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/)
 
 ## Make it yours
 
