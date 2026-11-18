@@ -48,11 +48,11 @@ Put your own report format in place of the default order of sections. Set the at
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run twice on its invented example in Claude on 10 November 2026. The instructions, the output format and the example were revised after the first run, and the second run is the one recorded and published with it. After that run, small wording edits were made following a review, without a new run. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run twice on its invented example in Claude on 10 November 2026. The instructions, the output format and the example were revised after the first run, and the second run is the one recorded and published with it. After that run, small wording edits were made following a review, without a new run. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past reporting period whose figures your analyst already knows, including a week with a missing day, a week with a tracking outage and a week where the platform and analytics disagree. The analyst recomputes every figure before any report goes further.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on a past reporting period whose fi
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

@@ -225,7 +225,7 @@ unconfirmed date, decline and name the decision gap.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Not yet tested in a client environment.
 - 0.1.1, 10 November 2026. Changes after review and the first run on the example: options with a future condition are offered as conditional; the instruction block now says to use only the supplied records, carries the rule on the words credit, refund and discount and the case of a deliverable missing from the milestone record; claims within one sentence are split; public holidays and the credit authoriser became settings; which dates get elapsed figures, a deadline due on the day of sending and a possible further quoted round are specified.
 - 0.1.2, 10 November 2026. Changes after a second review: the check for a threat to end the relationship, a lawyer or a contract remedy comes before the procedure's first step; a rule for a subject line or contact name that was not supplied; the example's timeline and deadline handling now follow the format. Not run again as a set.
 - 0.1.3, 10 November 2026. Small changes after an independent review: the instruction block now restates the default working-day counting rule and says a future date needs a date in the delivery-confirmed cell, not only a name and a confirmation date; version notes put in order. Not run again.

@@ -243,4 +243,4 @@ client, decline: the leads and the client decide.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example, on an earlier wording of the instructions, in Claude on 10 November 2026, with the record published beside it; the run was not blind, because the published inventory had been read first. The wording has since been revised (defaults and the ask-once rule added to the instruction block, blank page-record cells, offer-term and paused-campaign rules, a "Not compared" line) and the revised wording has not been run again. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example, on an earlier wording of the instructions, in Claude on 10 November 2026, with the record published beside it; the run was not blind, because the published inventory had been read first. The wording has since been revised (defaults and the ask-once rule added to the instruction block, blank page-record cells, offer-term and paused-campaign rules, a "Not compared" line) and the revised wording has not been run again. Not yet tested in a client environment.

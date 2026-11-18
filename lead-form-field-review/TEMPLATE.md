@@ -231,4 +231,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example in Claude on 10 November 2026, after two independent reviews that day; the record is in the public folder. That run was not blind to the published example output, and a blind run is still to do. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026, after two independent reviews that day; the record is in the public folder. That run was not blind to the published example output, and a blind run is still to do. Not yet tested in a client environment.

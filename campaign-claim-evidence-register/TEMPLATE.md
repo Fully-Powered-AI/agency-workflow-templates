@@ -206,4 +206,4 @@ to say whether a claim is lawful.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried on its example in Claude on 10 November 2026 (see the trial record); not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its example in Claude on 10 November 2026 (see the trial record); not yet tested in a client environment.
