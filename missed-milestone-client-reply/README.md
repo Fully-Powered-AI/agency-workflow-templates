@@ -1,10 +1,17 @@
 # Missed milestone client reply
 
-When a client challenges a delay, a deliverable or an earlier commitment, the account director gets a draft reply and an internal action note that keep confirmed facts apart from proposed recovery steps and the decisions still needed. Nothing is sent.
+When a client challenges a delay, get a draft reply and an internal action note that separate confirmed facts from open decisions. Nothing is sent.
 
-*Workflow template · Marketing and advertising · Customer success and account management · version 0.1.3 · [Workflows Directory](https://fullypowered.ai/workflows/missed-milestone-client-reply/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Missed milestone client reply on our website](https://fullypowered.ai/workflows/missed-milestone-client-reply/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/missed-milestone-client-reply/?from=gh-agency-missed-milestone-client-reply)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and advertising · Customer success and account management · version 0.1.3 · [Workflows Directory](https://fullypowered.ai/workflows/missed-milestone-client-reply/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply)*
 
 ## The outcome
 
@@ -40,14 +47,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), where the first answer to a challenge shapes the rest of the relationship.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), whose confirmed dates are the only ones the reply may state.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agencies run on dated deliverables, rounds of revisions and launch dates that sit on the client's side.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the person who holds the client relationship also answers for the schedule.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), for build projects with milestones, acceptance steps and a client who is counting days.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more accounts than the director can hold in their head are running at once.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply), where the first answer to a challenge shapes the rest of the relationship.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply), whose confirmed dates are the only ones the reply may state.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply), where agencies run on dated deliverables, rounds of revisions and launch dates that sit on the client's side.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply), where the person who holds the client relationship also answers for the schedule.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply), for build projects with milestones, acceptance steps and a client who is counting days.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply), when more accounts than the director can hold in their head are running at once.
 
-It sits beside three neighbours without overlapping them. [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/) answers any customer message from a tone guide and approved answers. [Support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/) hands a support case to a senior person. [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/) is the scheduled update, not the answer to a challenge.
+It sits beside three neighbours without overlapping them. [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply) answers any customer message from a tone guide and approved answers. [Support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply) hands a support case to a senior person. [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply) is the scheduled update, not the answer to a challenge.
 
 ## What has to change for your company
 
@@ -57,7 +64,7 @@ Name who may approve the wording, any concession and a new date; the workflow te
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. That run was made before the template's later revisions, which answer what the run showed and what review found, so the record describes the earlier wording and the earlier example. It has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past challenges your account director already knows the outcome of, with cases written in advance: a claim the records contradict, a date nobody has confirmed, a recovery option nobody authorised, a scope statement that disagrees with an earlier email. The director checks every fact in the reply against the records before anything is sent. [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/) is a good companion once the relationship is steady again.
+Testing in your environment means running it on past challenges your account director already knows the outcome of, with cases written in advance: a claim the records contradict, a date nobody has confirmed, a recovery option nobody authorised, a scope statement that disagrees with an earlier email. The director checks every fact in the reply against the records before anything is sent. [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply) is a good companion once the relationship is steady again.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,10 +91,10 @@ Testing in your environment means running it on past challenges your account dir
 
 ## Related workflow templates
 
-- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
-- [Support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply)
+- [Support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply).

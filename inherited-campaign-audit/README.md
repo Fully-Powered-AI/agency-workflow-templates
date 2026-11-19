@@ -1,10 +1,17 @@
 # Inherited campaign audit
 
-When an agency takes over an account or prepares a campaign health review, the media or analytics lead gets an inventory of what is running against the client's plan: mismatched offers, disagreeing destination pages, missing measurement evidence, and an owner for each follow-up.
+Take over an ad account with a clear inventory of what is running against the approved plan, with an owner for each follow-up. The leads decide.
 
-*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inherited-campaign-audit/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Inherited campaign audit on our website](https://fullypowered.ai/workflows/inherited-campaign-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inherited-campaign-audit/?from=gh-agency-inherited-campaign-audit)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inherited-campaign-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit)*
 
 ## The outcome
 
@@ -40,14 +47,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where the plan, the ads and the landing pages must agree.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), which needs to know where measurement is evidenced and where it is only assumed.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), the agencies that take over accounts and review them on a rhythm.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where promotions change often and ads outlive offers.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where several agencies and seasonal offers leave accounts out of step with the plan.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new client accounts arrive faster than anyone can learn each one by hand.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit), where the plan, the ads and the landing pages must agree.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit), which needs to know where measurement is evidenced and where it is only assumed.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit), the agencies that take over accounts and review them on a rhythm.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit), where promotions change often and ads outlive offers.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit), where several agencies and seasonal offers leave accounts out of step with the plan.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit), when new client accounts arrive faster than anyone can learn each one by hand.
 
-It is not a website findability review, which looks at how a site can be found ([website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)), and it is not a plan for what to track ([tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/)).
+It is not a website findability review, which looks at how a site can be found ([website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit)), and it is not a plan for what to track ([tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit)).
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ It is not a website findability review, which looks at how a site can be found (
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, on an earlier wording of the instructions; the record is published with it. The run was not blind, because the published inventory had been read first, and the revised wording has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an account your leads already know well, with cases written in advance: an offer that ended last month, a page that returns an error, a campaign that is in no plan line, a tracking check that failed. Your analytics lead checks every statement against the exports before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on an account your leads already know well, with cases written in advance: an offer that ended last month, a page that returns an error, a campaign that is in no plan line, a tracking check that failed. Your analytics lead checks every statement against the exports before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,10 +96,10 @@ Testing in your environment means running it on an account your leads already kn
 
 ## Related workflow templates
 
-- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/)
-- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
+- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit)
 - [Client campaign performance report](../client-campaign-performance-report/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-inherited-campaign-audit&from=gh-agency-inherited-campaign-audit).

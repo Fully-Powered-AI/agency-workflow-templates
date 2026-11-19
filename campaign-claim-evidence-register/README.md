@@ -1,10 +1,17 @@
 # Campaign claim evidence register
 
-An account lead gets a register that pairs each draft campaign claim with the evidence the client supplied, its source date, proposed qualified wording and the approvals still missing. Unsupported or stale claims are blocked; only approved wording is released.
+Pair each draft campaign claim with the client's evidence, qualified wording and missing approvals. Unsupported claims are blocked; a person releases.
 
-*Workflow template · Marketing and advertising · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Campaign claim evidence register on our website](https://fullypowered.ai/workflows/campaign-claim-evidence-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/campaign-claim-evidence-register/?from=gh-campaign-claim-evidence-register)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and advertising · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-claim-evidence-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register)*
 
 ## The outcome
 
@@ -34,15 +41,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where campaign copy is written and passed on.
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), whose reviewers decide what the claim may say; the register only prepares their paperwork.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where the account lead carries the client's claims into production.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where offers, rankings and comparisons are the usual copy.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where promotions and price comparisons change often.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when campaigns multiply faster than anyone can keep track of what each line rests on.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when old claims keep being reused after their evidence has aged.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), where campaign copy is written and passed on.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), whose reviewers decide what the claim may say; the register only prepares their paperwork.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), where the account lead carries the client's claims into production.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), where offers, rankings and comparisons are the usual copy.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), where promotions and price comparisons change often.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), when campaigns multiply faster than anyone can keep track of what each line rests on.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), when old claims keep being reused after their evidence has aged.
 
-It is separate from [creator content approval](https://fullypowered.ai/workflows/creator-content-approval/), which reviews a creator's finished post. It does not test whether a difference in numbers is real, which is [comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/), and it does not edit copy, which is [copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/).
+It is separate from [creator content approval](https://fullypowered.ai/workflows/creator-content-approval/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), which reviews a creator's finished post. It does not test whether a difference in numbers is real, which is [comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register), and it does not edit copy, which is [copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register).
 
 ## What has to change for your company
 
@@ -79,10 +86,10 @@ Testing in your environment means running it on a past campaign whose claims are
 
 ## Related workflow templates
 
-- [Comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/)
-- [Creator content approval](https://fullypowered.ai/workflows/creator-content-approval/)
-- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)
+- [Comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register)
+- [Creator content approval](https://fullypowered.ai/workflows/creator-content-approval/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register)
+- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register).

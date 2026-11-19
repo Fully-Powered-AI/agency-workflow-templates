@@ -1,10 +1,17 @@
 # Creative test evidence review
 
-When a batch of ad creative is ready for review, the creative strategist and media lead get an evidence table by creative, angle, format and hook, with tentative learning and next-test options. No winner or loser is named, and thin evidence is held back.
+An evidence table for a batch of ad creative by angle, format and hook, with thin evidence held back. A person chooses what to test next.
 
-*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-test-evidence-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creative test evidence review on our website](https://fullypowered.ai/workflows/creative-test-evidence-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creative-test-evidence-review/?from=gh-agency-creative-test-evidence-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-test-evidence-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review)*
 
 ## The outcome
 
@@ -31,16 +38,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where creative is tested against live spend and the next round has to be chosen.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the team that makes the creative needs to know what the numbers can and cannot say.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), for keeping conversion definitions and the change log beside the results.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency reviews creative on behalf of several clients.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where product, offer and price change often during a test.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where sign-up and trial conversions are hard to confirm.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when many creatives are launched quickly and each batch needs an honest reading.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when an in-house team inherits a long history of creative with no shared way to review it.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review), where creative is tested against live spend and the next round has to be chosen.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review), where the team that makes the creative needs to know what the numbers can and cannot say.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review), for keeping conversion definitions and the change log beside the results.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review), where an agency reviews creative on behalf of several clients.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review), where product, offer and price change often during a test.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review), where sign-up and trial conversions are hard to confirm.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review), when many creatives are launched quickly and each batch needs an honest reading.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review), when an in-house team inherits a long history of creative with no shared way to review it.
 
-It does not test whether one result beats another by more than chance (see [comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/)), and it does not report on creators ([creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/)).
+It does not test whether one result beats another by more than chance (see [comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review)), and it does not report on creators ([creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review)).
 
 ## What has to change for your company
 
@@ -77,9 +84,9 @@ Testing in your environment means running it on a past batch whose story you alr
 
 ## Related workflow templates
 
-- [Comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/)
-- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/)
+- [Comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review)
+- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-creative-test-evidence-review&from=gh-agency-creative-test-evidence-review).

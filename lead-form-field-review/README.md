@@ -1,10 +1,17 @@
 # Lead form field review
 
-When a client questions a long inquiry form or abandoned submissions, the conversion lead gets a field-by-field review: what each field is used for downstream, where people leave, and proposed labels, error messages and test questions. The lead and the client's data owner decide every change.
+Review a long inquiry form field by field: what each answer is used for, where people leave, and proposed wording. A person decides every change.
 
-*Workflow template · Marketing and advertising · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-form-field-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Lead form field review on our website](https://fullypowered.ai/workflows/lead-form-field-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lead-form-field-review/?from=gh-agency-lead-form-field-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and advertising · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-form-field-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review)*
 
 ## The outcome
 
@@ -41,15 +48,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where a form is judged by whether a stranger can complete it.
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where paid traffic ends at a form and every field is paid for in people who leave.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), which needs to know what each field feeds after submission.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), the agencies whose clients question the forms they have been given.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where an inquiry form is often the first thing a prospective client meets.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where demo and contact forms ask for more as sales processes grow.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a form has gained a field for every team that wanted one.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review), where a form is judged by whether a stranger can complete it.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review), where paid traffic ends at a form and every field is paid for in people who leave.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review), which needs to know what each field feeds after submission.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review), the agencies whose clients question the forms they have been given.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review), where an inquiry form is often the first thing a prospective client meets.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review), where demo and contact forms ask for more as sales processes grow.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review), when a form has gained a field for every team that wanted one.
 
-It is not a review of how a website is found ([website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)), and it is not a plan for what to track ([tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/)).
+It is not a review of how a website is found ([website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review)), and it is not a plan for what to track ([tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review)).
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ It is not a review of how a website is found ([website findability audit](https:
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; that run was not blind to the published output, and a blind run is still to do. The record is published with it. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a form your team already knows well, with cases written in advance: a required field nobody can explain, a field whose choices do not match the quote bands, a field with too few visitors to read, a consent field. Your analytics lead checks every figure against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a form your team already knows well, with cases written in advance: a required field nobody can explain, a field whose choices do not match the quote bands, a field with too few visitors to read, a consent field. Your analytics lead checks every figure against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -90,10 +97,10 @@ Testing in your environment means running it on a form your team already knows w
 
 ## Related workflow templates
 
-- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/)
-- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
-- [Usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/)
+- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review)
+- [Usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-lead-form-field-review&from=gh-agency-lead-form-field-review).

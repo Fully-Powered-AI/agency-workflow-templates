@@ -1,10 +1,17 @@
 # Client campaign performance report
 
-At the weekly or monthly reporting cutoff, the analyst gets a client report in the agency's format from the exports supplied: source figures, a drafted narrative, anomalies and discussion points. Gaps stay gaps, and every explanation is labelled a hypothesis.
+At the reporting cutoff, get a client report from your exports: figures by source, a draft narrative and anomalies. A person approves it.
 
-*Workflow template · Marketing and advertising · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-campaign-performance-report/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Client campaign performance report on our website](https://fullypowered.ai/workflows/client-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-campaign-performance-report/?from=gh-client-campaign-performance-report)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and advertising · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report)*
 
 ## The outcome
 
@@ -35,14 +42,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where the account team reports to each client on a fixed rhythm and the analyst is the one who has to trust the figures.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), for consultancies and studios that report campaign results to clients as part of a retainer.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where the in-house team reports paid media to the owner or the board from the same kinds of exports.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), which owns the definitions, the calculations and the habit of showing the source.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), whose campaigns the report describes.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of client accounts has outgrown the hours the analyst has each cutoff.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), where the account team reports to each client on a fixed rhythm and the analyst is the one who has to trust the figures.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), for consultancies and studios that report campaign results to clients as part of a retainer.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), where the in-house team reports paid media to the owner or the board from the same kinds of exports.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), which owns the definitions, the calculations and the habit of showing the source.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), whose campaigns the report describes.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), when the number of client accounts has outgrown the hours the analyst has each cutoff.
 
-It is a different piece of work from the [creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/), which ranks influencer partners from a store's own orders. It is not the [weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/), which covers a whole business, and not [quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/), which looks across a quarter and a relationship.
+It is a different piece of work from the [creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), which ranks influencer partners from a store's own orders. It is not the [weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), which covers a whole business, and not [quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report), which looks across a quarter and a relationship.
 
 ## What has to change for your company
 
@@ -79,10 +86,10 @@ Testing in your environment means running it on a past reporting period whose fi
 
 ## Related workflow templates
 
-- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/)
-- [Weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/)
-- [Quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/)
+- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report)
+- [Weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report)
+- [Quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report).
