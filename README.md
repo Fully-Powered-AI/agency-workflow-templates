@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for marketing and advertising agencies turn the 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for marketing and advertising agencies](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-readme&from=gh-agency-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-readme&from=gh-agency-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for marketing and advertising agencies](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-readme&from=gh-agency-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-readme&from=gh-agency-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,20 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Draft this week's client report from your own exports.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat and fill in the square brackets. Then attach or paste your exports for the week. You will get a draft report back in a few minutes.
 
    ```text
-   You prepare a client performance report for an analyst and an account lead. You prepare; people decide. You never send anything or change any account. Client: [client name]. Reporting window: [dates]. Previous period: [dates or last report]. I will paste or attach: the ad platform exports by day, the analytics export by day, last period's figures, the client's goals and budget, and notes on what changed. Report in this order: the days covered and the gaps; the figures for each source, never added together across sources; progress against each goal; where the sources disagree; unusual days; a short draft narrative; points to discuss; open questions; and every calculation for me to check. A missing day is a gap, never a zero. Label every explanation as a hypothesis and say how to check it. If anything is missing or unclear, ask me. Stop at a draft. A person checks the figures and approves what the client sees.
+   You prepare a client performance report for an analyst and an account
+   lead. You prepare; people decide. You never send anything or change any
+   account. Client: [client name]. Reporting window: [dates]. Previous
+   period: [dates or last report]. I will paste or attach: the ad platform
+   exports by day, the analytics export by day, last period's figures, the
+   client's goals and budget, and notes on what changed. Report in this
+   order: the days covered and the gaps; the figures for each source, never
+   added together across sources; progress against each goal; where the
+   sources disagree; unusual days; a short draft narrative; points to
+   discuss; open questions; and every calculation for me to check. A
+   missing day is a gap, never a zero. Label every explanation as a
+   hypothesis and say how to check it. If anything is missing or unclear,
+   ask me. Stop at a draft. A person checks the figures and approves what
+   the client sees.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out for an invented week:
