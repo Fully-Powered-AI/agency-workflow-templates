@@ -4,6 +4,8 @@ An account lead gets a register that pairs each draft campaign claim with the ev
 
 *Workflow template · Marketing and advertising · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/campaign-claim-evidence-register/?from=gh-campaign-claim-evidence-register)
+
 ## The outcome
 
 A campaign is ready to brief and someone has written the lines everyone likes: a comparison with a rival, a result, an offer. The account lead needs to know which of them can go out, and on what words. The register answers that claim by claim, in one fixed layout. Each draft claim sits beside the evidence the client supplied for it, when that evidence is dated, what it actually covers, wording that stays inside it, and which approvals have not yet been recorded.

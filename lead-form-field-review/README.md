@@ -4,6 +4,8 @@ When a client questions a long inquiry form or abandoned submissions, the conver
 
 *Workflow template · Marketing and advertising · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-form-field-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lead-form-field-review/?from=gh-agency-lead-form-field-review)
+
 ## The outcome
 
 The argument about the form stops being about opinion. Every field the form asks for is set beside the use someone made of the answer after submission, and beside the number of people who reached it and the number who left there. Where nobody can say what a field is for, the review says so plainly and hands the question to the person who can answer it.

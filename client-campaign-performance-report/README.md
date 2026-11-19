@@ -4,6 +4,8 @@ At the weekly or monthly reporting cutoff, the analyst gets a client report in t
 
 *Workflow template · Marketing and advertising · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-campaign-performance-report/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-campaign-performance-report/?from=gh-client-campaign-performance-report)
+
 ## The outcome
 
 The report arrives as a draft on the analyst's desk once the exports are in, not as an evening of copying figures between tabs. Every figure sits under the source that produced it, with the attribution window that source uses. Nothing is blended: the ad platform's conversions and the analytics tool's transactions are printed side by side, and the gap between them is reported as a gap.

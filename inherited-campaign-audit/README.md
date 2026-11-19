@@ -4,6 +4,8 @@ When an agency takes over an account or prepares a campaign health review, the m
 
 *Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inherited-campaign-audit/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inherited-campaign-audit/?from=gh-agency-inherited-campaign-audit)
+
 ## The outcome
 
 On the first day with a new account, nobody knows what is actually live. This gives the media and analytics leads one list of every in-scope campaign, set beside the plan the client approved. For each campaign it says whether the offer in its ads is the offer the client approved, whether the ads and the page they land on tell the same story, and whether anyone has evidence that the conversion it is meant to drive was ever recorded.

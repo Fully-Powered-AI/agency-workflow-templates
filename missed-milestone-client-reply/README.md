@@ -4,6 +4,8 @@ When a client challenges a delay, a deliverable or an earlier commitment, the ac
 
 *Workflow template · Marketing and advertising · Customer success and account management · version 0.1.3 · [Workflows Directory](https://fullypowered.ai/workflows/missed-milestone-client-reply/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/missed-milestone-client-reply/?from=gh-agency-missed-milestone-client-reply)
+
 ## The outcome
 
 The account director answers an unhappy client with the record in hand instead of from memory. The reply responds to what the client actually said, states only what the project records and the delivery team support, and leaves every decision that belongs to the director visibly open. The client gets a prompt, specific answer, and the agency has not promised a date, a credit or a position on who was at fault before anyone with the authority has chosen.

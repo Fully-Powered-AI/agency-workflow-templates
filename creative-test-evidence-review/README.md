@@ -4,6 +4,8 @@ When a batch of ad creative is ready for review, the creative strategist and med
 
 *Workflow template · Marketing and advertising · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-test-evidence-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creative-test-evidence-review/?from=gh-agency-creative-test-evidence-review)
+
 ## The outcome
 
 The creative review stops being a debate over whichever chart was on screen. The strategist and the media lead sit down with one page that lists every creative in the batch by its ID, angle, format and hook, with its spend, impressions, clicks, conversions and cost per conversion. Beside the table sit the conversion definitions in use and the campaign change log, so everyone can see what each number means and what changed while the batch ran.
