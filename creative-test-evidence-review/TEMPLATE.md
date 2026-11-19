@@ -122,7 +122,7 @@ Print every heading in the format. Where a section has nothing to report, write 
 
 Proposed tests. Only the first has been run, in the trial recorded with the example.
 
-1. **The invented batch in the example.** Expected: C-01 and C-04 readable; C-02, C-03 and C-06 thin; C-05 held back for offer and size; C-07 and C-08 unconfirmed; readable spend $2,150.00 of $6,520.00 (33.0%); no clean pair.
+1. **The illustrative batch in the example.** Expected: C-01 and C-04 readable; C-02, C-03 and C-06 thin; C-05 held back for offer and size; C-07 and C-08 unconfirmed; readable spend $2,150.00 of $6,520.00 (33.0%); no clean pair.
 2. **Header mismatch.** A column named "ad" instead of `creative_id`. Expected: stops and asks which column is which.
 3. **Duplicate creative.** C-03 appears twice. Expected: stops and asks whether to add the rows.
 4. **Event with no definition.** An event named "lead" with no row. Expected: stops and asks.
@@ -230,4 +230,4 @@ revenue.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example in Claude on 10 November 2026; the record is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

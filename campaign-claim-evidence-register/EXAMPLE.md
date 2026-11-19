@@ -1,6 +1,6 @@
-# Campaign claim evidence register: an invented example
+# Campaign claim evidence register: an example
 
-*Illustrative example with invented data.* The agency, the client, the campaign, the claims, the evidence, the people's roles and every figure below are made up to show the shape of the work. "Client A" is an invented regional meal-kit company and "Supermarket Kit B" an invented rival. First come the inputs the account lead supplied, in full, then the register the workflow template returned.
+*Illustrative example with sample data.* The agency, the client, the campaign, the claims, the evidence, the people's roles and every figure below are made up to show the shape of the work. "Client A" is an illustrative regional meal-kit company and "Supermarket Kit B" an illustrative rival. First come the inputs the account lead supplied, in full, then the register the workflow template returned.
 
 ## The inputs
 

@@ -1,10 +1,10 @@
-# Lead form field review: trial on its invented example
+# Lead form field review: trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Client R, an invented commercial cleaning company, with its form, counts and notes all invented). No client data was used. The inputs were the six blocks under "The inputs" in that file, with one change from the earlier run: the Phone number field's form message is now "Error in field" in place of a different stock string. The run followed the instruction block and the output format in `member/template.md` as revised after a third independent review on the same day.
+The inputs are the example in `public/example.md` (Client R, an illustrative commercial cleaning company, with its form, counts and notes all illustrative). No client data was used. The inputs were the six blocks under "The inputs" in that file, with one change from the earlier run: the Phone number field's form message is now "Error in field" in place of a different stock string. The run followed the instruction block and the output format in `member/template.md` as revised after a third independent review on the same day.
 
 Limits on this trial, stated first:
 
@@ -149,4 +149,4 @@ Every figure traces to the form definition, the completion export for 2026-10-01
   - Whether a Use finding's proposed label applies "where the field stays" is the very question being asked, so the label is offered conditionally.
   - Whether "optional" or a possessive may be added to a label is now stated in the template; this run applied that rule.
   - Test questions on the two Use findings now compare the form as it is with one version, the field optional; the earlier run offered two variants in each.
-- **What this trial does not show:** it was one run, by one model, on an invented example, with the published output known beforehand. It says nothing about a real client's files, a different product, or the other acceptance tests, none of which was run. A blind run on the revised template is still to do.
+- **What this trial does not show:** it was one run, by one model, on an example, with the published output known beforehand. It says nothing about a real client's files, a different product, or the other acceptance tests, none of which was run. A blind run on the revised template is still to do.

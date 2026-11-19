@@ -1,6 +1,6 @@
-# Client campaign performance report: an invented example
+# Client campaign performance report: an example
 
-*Illustrative example with invented data.* An invented agency prepares the weekly report for Client A, an invented online shop selling outdoor furniture. The agency, the client, the platforms and every figure below are made up for this example; none of them stands for a real organisation.
+*Illustrative example with sample data.* An illustrative agency prepares the weekly report for Client A, an illustrative online shop selling outdoor furniture. The agency, the client, the platforms and every figure below are made up for this example; none of them stands for a real organisation.
 
 ## What the analyst supplies
 

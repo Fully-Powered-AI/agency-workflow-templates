@@ -1,6 +1,6 @@
-# Creative test evidence review: an invented example
+# Creative test evidence review: an example
 
-*Illustrative example with invented data.* Client A is an invented online seller of kitchenware, and Agency X is its invented agency. The batch is eight creatives for one pan range, reviewed by the agency's creative strategist and media lead. Nothing here describes a real account or a real result.
+*Illustrative example with sample data.* Client A is an illustrative online seller of kitchenware, and Agency X is its illustrative agency. The batch is eight creatives for one pan range, reviewed by the agency's creative strategist and media lead. Nothing here describes a real account or a real result.
 
 ## What the person supplies
 

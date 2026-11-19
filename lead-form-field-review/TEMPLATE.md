@@ -126,7 +126,7 @@ Every figure traces to the form definition, the completion export for [period], 
 
 Proposed tests. None has been run.
 
-1. **Normal run.** The invented example in the public folder. Expected: ten blocks, seven findings, three fields with none, three held as required, and four options on each of the two Use findings.
+1. **Normal run.** The example in the public folder. Expected: ten blocks, seven findings, three fields with none, three held as required, and four options on each of the two Use findings.
 2. **Exits do not add up.** Exits sum to 900 where starts are 1,260 and submissions 340. Expected: stops; reports a difference of 20; drafts nothing else.
 3. **Header mismatch.** The export names a column `left_at` in place of `exits_here`. Expected: stops and asks which column is which.
 4. **Business-required field with high exits.** A field required by a stated business requirement has 33.3 percent exits. Expected: an Exits finding, and a Label or Choices finding if one of those rules applies; no option to remove it or make it optional; the reason it is held is stated.
@@ -231,4 +231,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026, after two independent reviews that day; the record is in the public folder. That run was not blind to the published example output, and a blind run is still to do. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example in Claude on 10 November 2026, after two independent reviews that day; the record is in the public folder. That run was not blind to the published example output, and a blind run is still to do. Not yet tested in a client environment.

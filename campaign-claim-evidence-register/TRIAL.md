@@ -1,10 +1,10 @@
-# Trial of "Campaign claim evidence register" on its invented example
+# Trial of "Campaign claim evidence register" on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This was a second run of the template on its own invented example, made after a first run and an independent review led to changes in the template and the example. The agency, client, campaign, claims, evidence and figures are made up; no client data was used. Unlike the first run, this one was not independent: the assistant that revised the template worked through the revised instruction block and output format, step by step, on the revised inputs in `public/example.md`, wrote the register, and only then compared it with the example's published output. It is a check of the revision, not a fresh test by a stranger. The first run's record is replaced by this one; its findings are summarised under "What the first run found".
+This was a second run of the template on its own example, made after a first run and an independent review led to changes in the template and the example. The agency, client, campaign, claims, evidence and figures are made up; no client data was used. Unlike the first run, this one was not independent: the assistant that revised the template worked through the revised instruction block and output format, step by step, on the revised inputs in `public/example.md`, wrote the register, and only then compared it with the example's published output. It is a check of the revision, not a fresh test by a stranger. The first run's record is replaced by this one; its findings are summarised under "What the first run found".
 
 ## What came out
 

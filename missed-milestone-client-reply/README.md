@@ -8,7 +8,7 @@ When a client challenges a delay, get a draft reply and an internal action note 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and advertising · Customer success and account management · version 0.1.3 · [Workflows Directory](https://fullypowered.ai/workflows/missed-milestone-client-reply/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply)*
@@ -43,7 +43,7 @@ The account director, or the account manager on the director's behalf, starts it
 
 If the records cannot support a reply, for example when the milestone record is missing, the workflow template says what it needs and drafts nothing.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -62,7 +62,7 @@ Name who may approve the wording, any concession and a new date; the workflow te
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. That run was made before the template's later revisions, which answer what the run showed and what review found, so the record describes the earlier wording and the earlier example. It has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it. That run was made before the template's later revisions, which answer what the run showed and what review found, so the record describes the earlier wording and the earlier example. It has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past challenges your account director already knows the outcome of, with cases written in advance: a claim the records contradict, a date nobody has confirmed, a recovery option nobody authorised, a scope statement that disagrees with an earlier email. The director checks every fact in the reply against the records before anything is sent. [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-missed-milestone-client-reply&from=gh-agency-missed-milestone-client-reply) is a good companion once the relationship is steady again.
 
@@ -70,13 +70,13 @@ Testing in your environment means running it on past challenges your account dir
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

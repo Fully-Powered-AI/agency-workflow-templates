@@ -8,7 +8,7 @@ Pair each draft campaign claim with the client's evidence, qualified wording and
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and advertising · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-claim-evidence-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-campaign-claim-evidence-register&from=gh-campaign-claim-evidence-register)*
@@ -37,7 +37,7 @@ The account lead starts it when a proposed campaign contains a comparison, a res
 
 One register in a fixed order: a count of claims by status, then one entry per claim showing the draft line, the evidence, its age against the limit, permission, proposed wording, approvals still missing and the reason for the status. After the entries come the release list, what would unblock each blocked claim, any evidence that matched no claim, and questions for the account lead. Where a section is empty it says "None."
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Write down who approves each type of claim and keep that list with the client. S
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past campaign whose claims are already known: one with stale evidence, one with a missing date, one where the approver signed different wording than the one proposed. The account lead and the client's claims owner should recompute every date and age before the register is relied on.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on a past campaign whose claims are
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

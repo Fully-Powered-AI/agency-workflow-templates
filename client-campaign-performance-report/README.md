@@ -8,7 +8,7 @@ At the reporting cutoff, get a client report from your exports: figures by sourc
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and advertising · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=agency-client-campaign-performance-report&from=gh-client-campaign-performance-report)*
@@ -38,7 +38,7 @@ The analyst starts it at the weekly or monthly client-reporting cutoff, once the
 
 One report, in a fixed order: the reporting window and its gaps, the figures by source, progress against the client's goals, where sources differ, anomalies, a draft narrative, discussion points for the call, open questions and a list of calculations for the analyst to check. Differing periods are compared per day with the day counts printed. A section with nothing to report says so in a line rather than disappearing.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Put your own report format in place of the default order of sections. Set the at
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run twice on its invented example in Claude on 10 November 2026. The instructions, the output format and the example were revised after the first run, and the second run is the one recorded and published with it. After that run, small wording edits were made following a review, without a new run. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run twice on its example in Claude on 10 November 2026. The instructions, the output format and the example were revised after the first run, and the second run is the one recorded and published with it. After that run, small wording edits were made following a review, without a new run. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past reporting period whose figures your analyst already knows, including a week with a missing day, a week with a tracking outage and a week where the platform and analytics disagree. The analyst recomputes every figure before any report goes further.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on a past reporting period whose fi
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

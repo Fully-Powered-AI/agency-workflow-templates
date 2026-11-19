@@ -1,13 +1,13 @@
-# Inherited campaign audit: an invented example
+# Inherited campaign audit: an example
 
-*Illustrative example with invented data.* The client, its shop, the campaigns, the web addresses (all on the reserved example domain), the dates and the amounts below are all invented. Client Q is an invented online garden-supplies shop whose search and social accounts an agency has just taken over. The media lead ran the audit, with the account lead's plan and the analytics lead's checks. First come the inputs the media lead supplied, in full, then the inventory the workflow template returned.
+*Illustrative example with sample data.* The client, its shop, the campaigns, the web addresses (all on the reserved example domain), the dates and the amounts below are all illustrative. Client Q is an illustrative online garden-supplies shop whose search and social accounts an agency has just taken over. The media lead ran the audit, with the account lead's plan and the analytics lead's checks. First come the inputs the media lead supplied, in full, then the inventory the workflow template returned.
 
 ## The inputs
 
 ### 1. Audit settings
 
 ```
-Client: Client Q (an invented online garden-supplies shop)
+Client: Client Q (an illustrative online garden-supplies shop)
 Period: 2026-10-01 to 2026-10-31
 As-of date: 2026-11-09
 Currency: USD

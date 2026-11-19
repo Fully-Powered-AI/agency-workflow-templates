@@ -114,7 +114,7 @@ Print every heading. Repeat the claim entry for every claim in the order of the 
 
 ## Acceptance tests
 
-Proposed tests. Test 1 was run in the trial on the invented example (`public/trial.md`); the others have not been run.
+Proposed tests. Test 1 was run in the trial on the example (`public/trial.md`); the others have not been run.
 
 1. **Mixed campaign.** The six claims, seven evidence rows and four approvals in the worked example. Expected: C3 Ready; C2, C4 and C6 Pending; C1 and C5 Blocked; E7 not matched.
 2. **Stale evidence.** A result claim with evidence 13 complete months old and a limit of 12. Expected: Blocked "stale".

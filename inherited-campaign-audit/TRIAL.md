@@ -1,4 +1,4 @@
-# Inherited campaign audit: trial on the invented example
+# Inherited campaign audit: trial on the example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,11 +6,11 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5), run as a coding-agent ses
 
 Date: 2026-11-10
 
-The inputs were the invented example in `public/example.md` (Client Q, an invented garden-supplies shop). No client data was used.
+The inputs were the example in `public/example.md` (Client Q, an illustrative garden-supplies shop). No client data was used.
 
 ## Inputs used
 
-The six invented inputs from `public/example.md`: audit settings, approved plan (6 lines), campaign export (8 rows, search and social), ad export (7 rows), destination-page records (4 rows) and tracking-check results (4 rows). No video export was supplied. The block was followed with the template's output format.
+The six sample inputs from `public/example.md`: audit settings, approved plan (6 lines), campaign export (8 rows, search and social), ad export (7 rows), destination-page records (4 rows) and tracking-check results (4 rows). No video export was supplied. The block was followed with the template's output format.
 
 ## A limit on this trial
 

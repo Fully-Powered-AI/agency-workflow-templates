@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [example.md](example.md): the client message, milestone record, scope notes, approval history, statements record, delivery status, recovery options and reply settings for the invented Client K landing-page project, with today as Friday 16 October 2026. No client data was used. The assistant that ran the template did not write it. It followed the template's instruction block and output format on those inputs and did not read the example's published draft until its own was finished.
+The inputs were the example in [example.md](example.md): the client message, milestone record, scope notes, approval history, statements record, delivery status, recovery options and reply settings for the illustrative Client K landing-page project, with today as Friday 16 October 2026. No client data was used. The assistant that ran the template did not write it. It followed the template's instruction block and output format on those inputs and did not read the example's published draft until its own was finished.
 
 ## What came out
 
@@ -133,7 +133,7 @@ Differences from the published example:
 - The labels for the claims both outputs share agree: Supported, Contradicted, Responsibility disputed, Records disagree, Request.
 - The calendar and working-day figures agree: 7 and 5 days since 9 October, and Thursday 22 and Friday 23 October for approval on 16 and 19 October, both after the 21 October build date.
 
-Facts in the outputs that are not in the inputs: the run's note says 12 October is a holiday in some places, which is outside knowledge and not something the records say; it should not have been added. The example's subject line "Landing-page copy and the 26 October launch" is invented wording, and its statement that the final copy "is not approved" is an inference from the approval history having no approval entry. Both outputs use the client's 26 October launch date, which only the client's message gives.
+Facts in the outputs that are not in the inputs: the run's note says 12 October is a holiday in some places, which is outside knowledge and not something the records say; it should not have been added. The example's subject line "Landing-page copy and the 26 October launch" is illustrative wording, and its statement that the final copy "is not approved" is an inference from the approval history having no approval entry. Both outputs use the client's 26 October launch date, which only the client's message gives.
 
 Against the reviewer checklist: the run's output traces each fact to a record, puts no future date outside a gap other than the feedback deadlines the SOW supports, recomputes every elapsed figure, proposes only authorised options, admits no fault, matches every gap in the reply to a decision, quotes both records where they disagree, and marks nothing as sent. One check is only partly met: the "Decisions needed" entry for the cost decision cannot name a decider from the inputs.
 
